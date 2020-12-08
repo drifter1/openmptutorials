@@ -9,3 +9,4 @@ Code from my Tutorial series on Hive about the Parallel Programming API OpenMP.
 - Atomic Operations and Critical Sections in OpenMP - https://peakd.com/hive-169321/@drifter1/programming-atomic-operations-and-critical-sections-in-openmp
 - Tasks in OpenMP - https://peakd.com/hive-169321/@drifter1/programming-tasks-in-openmp
 - Locks and Barriers in OpenMP - https://peakd.com/hive-169321/@drifter1/programming-locks-and-barriers-in-openmp
+- SIMD Instructions in OpenMP - https://peakd.com/hive-169321/@drifter1/programming-simd-instructions-in-openmp
