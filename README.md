@@ -10,3 +10,4 @@ Code from my Tutorial series on Hive about the Parallel Programming API OpenMP.
 - Tasks in OpenMP - https://peakd.com/hive-169321/@drifter1/programming-tasks-in-openmp
 - Locks and Barriers in OpenMP - https://peakd.com/hive-169321/@drifter1/programming-locks-and-barriers-in-openmp
 - SIMD Instructions in OpenMP - https://peakd.com/hive-169321/@drifter1/programming-simd-instructions-in-openmp
+- Device Targeting and Work Distribution in OpenMP - https://peakd.com/hive-169321/@drifter1/programming-device-targeting-and-work-distribution-in-openmp
